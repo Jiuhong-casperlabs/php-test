@@ -1,0 +1,5 @@
+{
+    "require": {
+        "make-software/casper-php-sdk": "dev-master"
+    }
+}
